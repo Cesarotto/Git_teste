@@ -1,1 +1,2 @@
-Aprendendo git na APeX
+Aprendendo git na APeX.
+Reenviando o arquivo.
